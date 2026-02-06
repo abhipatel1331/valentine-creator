@@ -11,33 +11,38 @@ interface Photo {
 const photos: Photo[] = [
   {
     id: 1,
-    src: "/placeholder.svg",
-    caption: "Our first adventure together",
+    src: "https://lh3.googleusercontent.com/pw/AP1GczNKiEo-TknJRGCDx12hBblAh9FeiiIXM-59M54Xrw41ahNWBY-y8xesQ5iIMbmshWThdi81SN0q6FQDbScsR4rpUFApI8o1yMSbpXYQXENuyq_OMCww=w2400",
+    caption: "Our first photo together☺️",
   },
   {
     id: 2,
-    src: "/placeholder.svg",
-    caption: "That special moment",
+    src: "https://lh3.googleusercontent.com/pw/AP1GczP5gb-7LrYNEQZPXlob7GuShEak7u4GPC-hV06bcMeO9avnW4w8qjKpfNThODJ3op97F9wQ_cTNEJeaZr3_1eDc7fU5K5BFj1ydQbAj_Xorjt4zUy0e=w2400",
+    caption: "Our first trip together🏔️",
   },
   {
     id: 3,
-    src: "/placeholder.svg",
-    caption: "Making memories",
+    src: "https://lh3.googleusercontent.com/pw/AP1GczMCknGE6gB93IjBV1iPdfoCASGkhcDyQCdVV1FeqwBhZYg1O74NQJ5RIYMO-h6ihG_P5e0VOBh3pP3pRJbXoo8bkJqHL6LoRKY5Ayi4u3k--Prd_lww=w2400",
+    caption: "We are Engaged❤️",
   },
   {
     id: 4,
-    src: "/placeholder.svg",
-    caption: "Always smiling with you",
+    src: "https://lh3.googleusercontent.com/pw/AP1GczO7-CZEuGvQ6c_90xw1H6K6lFMLiGRk3oCXraHtmHSr4CIGl--SQWaQFHf8KFaTmMjUoXh18yDeNHjlVHO18L7UbI3J_-gBMNZT4eR5rF6t0AUDY6L4=w2400",
+    caption: "Our first Navratri💃🏻🕺🏻",
   },
   {
     id: 5,
-    src: "/placeholder.svg",
-    caption: "My favorite place is next to you",
+    src: "https://lh3.googleusercontent.com/pw/AP1GczNIWGe77-2DNGPRhsenXd2kM2PgPgY2NnzgBI6LrCqJIyZ0vQiSCcXj7fPN_e_bOtQPXML44YLb1r7EbHTg8tmkAhkXVd-r8fDJBU1Sf9h7e6nHGiY9=w2400",
+    caption: "My favorite place is next to you💕",
   },
   {
     id: 6,
-    src: "/placeholder.svg",
-    caption: "Forever and always",
+    src: "https://lh3.googleusercontent.com/pw/AP1GczNIvWbgd2wgbPXhGLMCAkioAZ03mQMW-ZjT-U1jvXn7wBHMEvTTjXtHvE1m7zuHqEaOHskSSjyebduAkN_SqxakNlfWftlk0SeQ1ELfYhhtwv6xDoZg=w2400",
+    caption: "Forever and always♾️",
+  },
+  {
+    id: 7,
+    src: "https://lh3.googleusercontent.com/pw/AP1GczPZDNeF9ljKjAfwpFyaG5820qFwqEVDUyWka1f4OSGMc-FbX-ODRfdn0JiPsk6lE0S6c00h2nAkSCe1-6noYEeQmbCMfvjZXG44tOxPnJDvzeg4Kxjv=w2400",
+    caption: "I love you Foram❤️",
   },
 ];
 
@@ -118,7 +123,7 @@ const PhotoGallery = () => {
           transition={{ delay: 2 }}
           className="text-center mt-8 text-muted-foreground text-sm font-romantic italic"
         >
-          💡 Tip: Replace the placeholder images with your own photos in the code!
+
         </motion.p>
       </div>
     </motion.section>

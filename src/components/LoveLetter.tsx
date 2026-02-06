@@ -41,19 +41,19 @@ const LoveLetter = () => {
           {/* Letter content - customize this message! */}
           <div className="space-y-6 font-romantic text-lg md:text-xl text-foreground leading-relaxed">
             <p>
-              From the moment I met you, my world became a more beautiful place.
+              From the moment you sent me that Instagram request, the day I met you, my world became a more beautiful place.😊
               Your smile lights up even my darkest days, and your laughter is the
-              sweetest melody I've ever heard.
+              sweetest melody I've ever heard. Aww and taru cute dimple and tari latt vadi cute hair style, I am fida in that!🥰
             </p>
 
             <p>
-              Every moment with you feels like a dream I never want to wake up
+              Jyare tu mari jode hoy, every moment with you feels like a dream I never want to wake up
               from. You make me want to be a better person, and I'm so grateful
-              to have you in my life.
+              to have you in my life.🫰🏻
             </p>
 
             <p>
-              You are my sunshine, my inspiration, and my everything. I can't
+              You are my sunshine☀️, my inspiration🏆, and my everything🌍. I can't
               imagine my life without you, and I don't want to.
             </p>
 
@@ -68,7 +68,7 @@ const LoveLetter = () => {
               With all my love,
             </p>
             <p className="font-script text-3xl md:text-4xl text-valentine-rose mt-2">
-              Your Valentine ❤️
+              Your Abhi ❤️
             </p>
           </div>
         </motion.div>
@@ -80,7 +80,7 @@ const LoveLetter = () => {
           transition={{ delay: 1.5 }}
           className="text-center mt-6 text-muted-foreground text-sm font-romantic italic"
         >
-          💡 Tip: Edit the message above in the code to personalize your love letter!
+
         </motion.p>
       </div>
     </motion.section>

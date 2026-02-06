@@ -71,7 +71,7 @@ const SuccessPage = () => {
           Made with ❤️ for Foram
         </p>
         <p className="font-romantic text-muted-foreground mt-2">
-          Happy Valentine's Day 2025
+          Happy Valentine's Day
         </p>
       </motion.footer>
     </div>
